@@ -1,0 +1,35 @@
+"TC Code:
+JT0001
+Room code: A1
+Seat capacity:
+15
+Exam: eiken (0)
+Seat capacity: 15 
+Exam: SCBT(1)
+Seat capacity: 18
+Exam: SCBT(1)
+Room code: B1
+Seat capacity:
+8
+Exam: A
+Exam classification: Eiken CBT
+Applications: 5
+(2 applications with status_class '7' '8')
+Time Zone: 1 (afternoon)
+SCBT
+Applications: 5
+Time Zone: 1 (afternoon)
+Applications: 5
+Time Zone: 2
+(evening)
+Exam: A
+Applications: 0
+Time Zone: 2 (evening)
+Test Date:
+2022/02/05
+"
+
+
+
+
+
